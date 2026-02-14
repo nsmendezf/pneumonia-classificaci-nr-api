@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+chest_xray/
+*.pyc
+.DS_Store
+.ipynb_checkpoints
